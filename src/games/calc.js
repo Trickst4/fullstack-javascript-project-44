@@ -19,7 +19,7 @@ const calculate = (a, b, operator) => {
   }
 };
 
-const getData = () => {
+const startRound = () => {
   const num1 = randomIntFromInterval(0, 10);
   const num2 = randomIntFromInterval(0, 10);
   const operator = operators[randomSymbol(operators)];
@@ -29,6 +29,6 @@ const getData = () => {
   return [question, correctAnswer];
 };
 
-const startCalcGame = () => mainEngine(getData, description);
+const startCalcGame = () => mainEngine(startRound, description);
 
 export default startCalcGame;
