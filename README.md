@@ -7,10 +7,10 @@ Asciinema brain-even:
 https://asciinema.org/a/tGc2Cg8JreywXQzVoRZNcVk2y
 
 Asciinema brain-calc:
-https://asciinema.org/a/IJFVvms0L99pwbcMc4XVYj2tV
+https://asciinema.org/a/kkZz2E7jIdHcy1JAXEhow8sql
 
 Asciinema brain-gcd
-https://asciinema.org/a/KdQjZ54ifQY9i5IKdeQK87cxn
+https://asciinema.org/a/UNAGra3zxeSQboSHXirMYGA9F
 
 Asciinema brain-prog
 https://asciinema.org/a/iHATPG2sqHf7ZmFFXCpvvDEhQ
