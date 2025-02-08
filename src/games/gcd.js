@@ -1,5 +1,5 @@
 import mainEngine from '../index.js';
-import randomIntFromInterval from '../randomizer.js';
+import { randomIntFromInterval } from '../randomizer.js';
 
 const description = 'Find the greatest common divisor of given numbers.';
 

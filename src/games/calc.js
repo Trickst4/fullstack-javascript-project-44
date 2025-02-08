@@ -1,10 +1,8 @@
 import mainEngine from '../index.js';
-import randomIntFromInterval from '../randomizer.js';
+import { randomIntFromInterval, randomSymbol } from '../randomizer.js';
 
 const description = 'What is the result of the expression?';
 const operators = ['+', '-', '*'];
-
-const randomSymbol = (data) => Math.floor(Math.random() * data.length);
 
 const calculate = (a, b, operator) => {
   switch (operator) {

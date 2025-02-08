@@ -1,5 +1,5 @@
 import mainEngine from '../index.js';
-import randomIntFromInterval from '../randomizer.js';
+import { randomIntFromInterval } from '../randomizer.js';
 
 const isEven = (num) => (num % 2 === 0 ? 'yes' : 'no');
 
