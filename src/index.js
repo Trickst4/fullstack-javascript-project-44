@@ -6,9 +6,9 @@ const mainEngine = (getData, description) => {
   console.log(`Hello, ${userName}!`);
   console.log(description);
 
-  const roundCount = 2;
+  const roundCount = 3;
 
-  for (let i = 0; i <= roundCount; i += 1) {
+  for (let i = 1; i <= roundCount; i += 1) {
     const [question, correctAnswer] = getData();
 
     console.log(`Question: ${question}`);
