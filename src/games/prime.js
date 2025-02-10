@@ -1,7 +1,7 @@
 import mainEngine from '../index.js';
 import { randomIntFromInterval } from '../randomizer.js';
 
-const description = 'Answer "yes" if the given number is prime, otherwise answer "no".';
+const description = 'Answer "yes" if given number is prime. Otherwise answer "no".';
 
 const isPrime = (num) => {
   if (num < 2) {
