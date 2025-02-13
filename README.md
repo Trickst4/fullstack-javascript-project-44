@@ -4,7 +4,7 @@
 ### Codeclimate status:
 <a href="https://codeclimate.com/github/Trickst4/fullstack-javascript-project-44/maintainability"><img src="https://api.codeclimate.com/v1/badges/edd0e5e8632db7b347d2/maintainability" /></a>
 
-# Project decription
+# Project description
 **"Brain Games"** is a set of five console games inspired by popular mobile brain-boosting apps. In each game, questions are asked that need to be answered correctly. As soon as three correct answers are given, the game ends. Incorrect answers end the game and invite you to play it again.
 
 ### List of games:
@@ -28,7 +28,7 @@ npm install
 
 ### 1. Brain Even
 
-<a href="https://asciinema.org/a/tGc2Cg8JreywXQzVoRZNcVk2y" target="_blank"><img src="https://asciinema.org/a/tGc2Cg8JreywXQzVoRZNcVk2y.svg" /></a>
+<a href="https://asciinema.org/a/9WMdNWpJMVvZUc8ABtBwUnQ84" target="_blank"><img src="https://asciinema.org/a/9WMdNWpJMVvZUc8ABtBwUnQ84.svg" /></a>
 
 ### 2. Brain Calc
 
