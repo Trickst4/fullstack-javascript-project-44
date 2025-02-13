@@ -1,13 +1,14 @@
 import mainEngine from '../index.js';
 import { randomIntFromInterval } from '../randomizer.js';
 
-const isEven = (num) => (num % 2 === 0 ? 'yes' : 'no');
-
 const description = 'Answer "yes" if the number is even, otherwise answer "no".';
 
+const isEven = (num) => num % 2 === 0;
+
 const startRound = () => {
-  const question = randomIntFromInterval(0, 100);
-  const correctAnswer = isEven(question);
+  const num = randomIntFromInterval(0, 100);
+  const question = String(num);
+  const correctAnswer = isEven(num) ? 'yes' : 'no';
 
   return [question, correctAnswer];
 };

@@ -13,7 +13,7 @@ const calculate = (a, b, operator) => {
     case '*':
       return a * b;
     default:
-      return 'Unexpected symbol';
+      throw new Error(`Invalid operator - '${operator}'!`);
   }
 };
 
