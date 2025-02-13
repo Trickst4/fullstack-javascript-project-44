@@ -8,10 +8,10 @@
 **"Brain Games"** is a set of five console games inspired by popular mobile brain-boosting apps. In each game, questions are asked that need to be answered correctly. As soon as three correct answers are given, the game ends. Incorrect answers end the game and invite you to play it again.
 
 ### List of games:
-1. Brain even: Determining an even number.
+1. Brain even: determining an even number.
 2. Brain calculator: calculate random arithmetic expression.
 3. Brain gcd: determining the greatest common divisor.
-4. Brain progression: Finding the missing element in the progression.
+4. Brain progression: finding the missing element in the progression.
 5. Brain prime: determining prime number.
 
 ## How to install
@@ -26,11 +26,11 @@ git clone git@github.com:Trickst4/fullstack-javascript-project-44.git
 npm install
 ```
 
-### 1. Brain Even
+### 1. Brain even
 
 <a href="https://asciinema.org/a/9WMdNWpJMVvZUc8ABtBwUnQ84" target="_blank"><img src="https://asciinema.org/a/9WMdNWpJMVvZUc8ABtBwUnQ84.svg" /></a>
 
-### 2. Brain Calc
+### 2. Brain calculator
 
 <a href="https://asciinema.org/a/kkZz2E7jIdHcy1JAXEhow8sql" target="_blank"><img src="https://asciinema.org/a/kkZz2E7jIdHcy1JAXEhow8sql.svg" /></a>
 
@@ -38,9 +38,10 @@ npm install
 
 <a href="https://asciinema.org/a/UNAGra3zxeSQboSHXirMYGA9F" target="_blank"><img src="https://asciinema.org/a/UNAGra3zxeSQboSHXirMYGA9F.svg" /></a>
 
-### 4. Brain Progression
+### 4. Brain progression
 
 <a href="https://asciinema.org/a/iHATPG2sqHf7ZmFFXCpvvDEhQ" target="_blank"><img src="https://asciinema.org/a/iHATPG2sqHf7ZmFFXCpvvDEhQ.svg" /></a>
 
-### 5. Brain Prime
+### 5. Brain prime
+
 <a href="https://asciinema.org/a/MmCwN7cxglNDWaNwqN5vfWEbQ" target="_blank"><img src="https://asciinema.org/a/MmCwN7cxglNDWaNwqN5vfWEbQ.svg" /></a>
